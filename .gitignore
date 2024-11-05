@@ -1,0 +1,26 @@
+﻿# Ignorar configurações de build do Visual Studio
+.vs/
+.vscode/
+.idea/
+# Ignorar diretórios de build e logs
+bin/
+obj/
+# Ignorar logs, informações de depuração e arquivos de lock
+*.log
+*.user
+*.suo
+*.cache
+*.pdb
+*.mdb
+# Ignorar arquivos de configuração locais e secretos
+secrets.json
+appsettings.Development.json
+appsettings.Local.json
+# Ignorar outras pastas e arquivos temporários
+*.swp
+*.temp
+*.tmp
+# Ignorar arquivos relacionados ao repositório git
+.git/
+.gitignore
+.gitattributes
