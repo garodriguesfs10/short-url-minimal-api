@@ -23,3 +23,7 @@ Este projeto é um encurtador de link simples construído com as Minimal APIs do
 
 3. **Acesse a aplicação**:
      ``` http://localhost:8080/swagger/index.html ```
+
+## 🚀 Exemplo da aplicação em funcionamento:
+
+https://github.com/user-attachments/assets/ba953785-2e99-43d1-b85e-3b4618361a5b
