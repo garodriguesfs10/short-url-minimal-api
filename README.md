@@ -26,4 +26,4 @@ Este projeto é um encurtador de link simples construído com as Minimal APIs do
 
 ## 🚀 Exemplo da aplicação em funcionamento:
 
-https://github.com/user-attachments/assets/ba953785-2e99-43d1-b85e-3b4618361a5b
+https://github.com/user-attachments/assets/8c94dd36-e0f7-4c82-b362-7cf77bbd9210
